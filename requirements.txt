@@ -1,0 +1,4 @@
+# Python packages for reels / motion graphics (render.py, ig_publish.py and the other scripts use only the stdlib)
+edge-tts>=6.1
+numpy>=1.24
+pillow>=10.0

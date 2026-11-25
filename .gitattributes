@@ -1,0 +1,10 @@
+# LF everywhere, even with Windows git (bash/python break on CRLF)
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.woff binary
+*.woff2 binary
+*.mp3 binary
+*.mp4 binary
+*.wav binary

@@ -1,0 +1,15 @@
+# local, per-machine (written by install.sh) or generated
+config.env
+output/
+.venv
+__pycache__/
+*.pyc
+photos/.fit/
+.claude/settings.local.json
+
+# secrets never belong here
+.env
+*.env
+!config.env.example
+*.pem
+*.key

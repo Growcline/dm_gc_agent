@@ -1,0 +1,41 @@
+{
+  "brand": {
+    "kit": "../../../brand/brand.json",
+    "logo_top": "center",
+    "logo_scale": 1.1
+  },
+  "posts": [
+    {
+      "id": "devops-myth-vs-reality",
+      "size": "portrait",
+      "theme": "light",
+      "layout": "versus",
+      "headline": "DevOps *Myth*\nvs *Reality*",
+      "headline_size": 88,
+      "versus": [
+        {
+          "label": "MYTH",
+          "tone": "bad",
+          "text": "You need to be an expert programmer to start learning DevOps.",
+          "color": "#8a94a6"
+        },
+        {
+          "label": "REALITY",
+          "tone": "good",
+          "text": "Start with the fundamentals and build your skills in *Linux, Git, scripting, cloud* and *automation*.",
+          "note": "You don't need to know everything to get started.",
+          "color": "#f95f54"
+        }
+      ],
+      "cta": "Learn DevOps with Growcline",
+      "cta_note": "Start with the basics. Build skills that matter.",
+      "colors": {
+        "bg1": "#ffffff",
+        "bg2": "#ffffff",
+        "card": "#fff6f5",
+        "line": "rgba(249,95,84,0.22)",
+        "glow": 0.07
+      }
+    }
+  ]
+}

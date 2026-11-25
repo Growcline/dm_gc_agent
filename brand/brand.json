@@ -1,0 +1,34 @@
+{
+  "name": "Growcline",
+  "handle": "@growcline_global",
+  "contact": "growcline.in",
+  "logo": "logo.png",
+  "font": "Nunito",
+  "font_dir": "fonts",
+  "accent": "#f95f54",
+  "accent2": "#ff3131",
+  "theme": "navy",
+  "footer_bar": {
+    "color": "#eb4a42",
+    "source": "https://www.instagram.com/p/Dd87fzZE4BW/",
+    "items": [
+      {
+        "icon": "web",
+        "text": "www.growcline.in"
+      },
+      {
+        "icon": "instagram",
+        "text": "growcline_global"
+      },
+      {
+        "icon": "linkedin",
+        "text": "Growcline Global"
+      },
+      {
+        "icon": "facebook",
+        "text": "GrowclineGlobal"
+      }
+    ]
+  },
+  "enforce_footer": true
+}
